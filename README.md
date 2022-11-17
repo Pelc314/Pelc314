@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pelc314
 - 👀 I’m interested in running 🏃, photography 📷 and IT 💻
-- 🌱 I’m currently learning Kotlin and Android developement
+- 🌱 I’m currently working on Kotlin and Android developement
 - 📫 How to reach me https://www.linkedin.com/in/maciej-pelc/
 
 <!---
