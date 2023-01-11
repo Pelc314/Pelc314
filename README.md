@@ -2,6 +2,7 @@
 - 🌱 I’m currently working on Kotlin and Android developement
 - 📫 How to reach me https://www.linkedin.com/in/maciej-pelc/
 - 🧑‍💻 Codewars profile: https://www.codewars.com/users/MaciejP321/stats 
+- 📧 maciej.pelc@outlook.com
 
 <!---
 Pelc314/Pelc314 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
