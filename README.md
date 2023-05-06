@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Pelc314
-- 🌱 I’m currently working on Kotlin and Android developement
 - 📫 How to reach me https://www.linkedin.com/in/maciej-pelc/ or maciej.pelc@outlook.com
 
 <!---
